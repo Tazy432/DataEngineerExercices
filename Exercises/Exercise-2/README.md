@@ -40,3 +40,9 @@ Generally, your script should do the following ...
 3. Build the `URL` required to download this file, and write the file locally.
 4. Open the file with `Pandas` and find the records with the highest `HourlyDryBulbTemperature`.
 5. Print this to stdout/command line/terminal.
+
+
+---------------------------------------NEWS----------------------------------------------
+![image](https://github.com/user-attachments/assets/0cd7aea9-980d-48fa-828c-981dbc3eec41)
+We pray for all the victims, godspeed.
+
