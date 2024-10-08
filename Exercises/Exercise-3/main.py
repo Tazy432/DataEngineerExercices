@@ -2,8 +2,8 @@ import boto3
 
 
 def main():
-    # your code here
-    pass
+    
+    print("Ce zici mosule?")
 
 
 if __name__ == "__main__":
